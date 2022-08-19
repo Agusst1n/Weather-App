@@ -1,0 +1,18 @@
+.nextHours_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+    height: 30vh;
+    background-color: rgba(176, 174, 174, 0.168);
+    backdrop-filter: blur(10px);
+}
+
+@media (max-width: 460px){
+    .nextHours_container{
+        flex-wrap: wrap;
+        padding: 10px 0;
+    }
+}

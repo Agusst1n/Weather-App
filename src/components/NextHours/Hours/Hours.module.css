@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hours_card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 150px;
+    width: 150px;
+    outline: 1px solid rgba(0, 0, 0, 0.784);
+}
+@media (max-width: 790px){
+    .hours_card{
+        width: 120px;
+        height: 120px;
+        font-size: 0.8rem;
+    }
+    .icon{
+        width: 34px;
+    }
+    .hour, .temperature{
+        font-size: 0.7rem;
+    }
+}
+@media (max-width: 640px){
+    .hours_card{
+        width: 100px;
+        height: 100px;
+        font-size: 0.8rem;
+    }
+    .icon{
+        width: 34px;
+    }
+    .hour, .temperature{
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 460px){
+    .hours_card{
+        width: 70px;
+        height: 80px;
+        font-size: 0.8rem;
+    }
+    .icon{
+        width: 34px;
+    }
+    .hour, .temperature{
+        font-size: 0.7rem;
+    }
+}
+@media (max-width: 290px){
+    .hours_card{
+        width: 65px;
+        height:75px;
+        font-size: 0.8rem;
+    }
+    .icon{
+        width: 34px;
+    }
+    .hour, .temperature{
+        font-size: 0.7rem;
+    }
+}

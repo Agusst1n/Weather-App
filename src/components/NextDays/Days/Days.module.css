@@ -1,0 +1,37 @@
+.days_card{
+    height: 330px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    outline: 1px solid rgba(0, 0, 0, 0.761);
+    background-color: rgba(176, 174, 174, 0.168);
+    backdrop-filter: blur(10px);
+}
+
+.days_card:hover{
+    opacity: 0.9;
+    transform: scale(1.1);
+    transition: .4s;
+}
+
+.next_day{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.849);
+    height: 30px;
+    width: 180px;
+    background-color: rgba(176, 174, 174, 0.06);
+    backdrop-filter: blur(2px);
+}
+
+@media (max-width: 560px){
+    .days_card{
+        height: 280px;
+        width: 160px;
+    }
+    .next_day{
+        width: 160px;
+        font-size: 0.8rem;
+    }
+}

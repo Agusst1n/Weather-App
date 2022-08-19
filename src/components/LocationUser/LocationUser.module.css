@@ -1,0 +1,27 @@
+.info_location{
+    /* position: absolute; */
+    height: 350px;
+    width: 70%;
+    background-color: rgba(176, 174, 174, 0.168);
+    backdrop-filter: blur(10px);
+    top: 50%;
+    left: 50%;
+    /* transform: translate(-50%, -50%); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.697);
+}
+
+@media (max-width: 768px){
+    .info_location{
+        width: 96%;
+    }
+}
+
+@media (max-width: 460px){
+    .info_location{
+        width: 100%;
+    }
+}
