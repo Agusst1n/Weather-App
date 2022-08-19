@@ -1,6 +1,7 @@
-# Proyecto Rent-Cart
+# Weather APP
 
-Proyecto realizado para simular un componente que muestra diferentes opciones para la renta de autos, se pueden realizar filtros de los autos de acuerdo estas características. Los datos que alimentan este componente vienen de una base de datos que se encuentra en la carpeta data, la cual simulamos un API. Para crear este proyecto se utilizó HTML, CSS y JavaScript vanilla, como entorno de desarrollo Vite.
+Este es una aplicacion que muestra el clima del momento y de los proximos cinco dias en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalizacion. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco dias de lugares como Paris, Tokio, Venecia, Atenas y New York
+
 ## API Referencia
 
 #### Get all items
