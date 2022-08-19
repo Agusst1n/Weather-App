@@ -1,6 +1,6 @@
 # Weather APP
 
-Este es una aplicacion que muestra el clima del momento y de los proximos cinco dias en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalizacion. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco dias de lugares como Paris, Tokio, Venecia, Atenas y New York
+Este es una aplicacion que muestra el clima del momento y de los proximos cinco días en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalización. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco días de lugares como Paris, Tokio, Venecia, Atenas y New York. Ademas la aplicacion simula el comportamiento nativo de una aplicacion movil, por lo cual se puede instalar en la computadora, tablet y celular.
 
 ## Reconstruir los modulos levantar el proyecto en Local
 ```
@@ -10,15 +10,11 @@ npm run dev
 
 ## Features
 
-- Card por auto
-- Filtro por Categoria
-- Filtro Transmisión Manual
-- Filtro Transmisión Automática
-- Filtro por 5 asientos
-- Filtro por 7 asientos o más
-- Filtro Convertibles
-- Spinner simulación de carga
-
+- Card con informacion del clima en diferentes horas del día
+- La APP se puede instalar
+- Informacion del clima de los proximos cinco días 
+- Se puede elegir entre cinco lugares populares
+- Es facil de entender
 
 
 ## Screenshots
