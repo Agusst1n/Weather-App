@@ -2,14 +2,6 @@
 
 Este es una aplicacion que muestra el clima del momento y de los proximos cinco dias en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalizacion. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco dias de lugares como Paris, Tokio, Venecia, Atenas y New York
 
-## API Referencia
-
-#### Get all items
-
-```http
-  GET //data/api
-```
-
 ## Reconstruir los modulos levantar el proyecto en Local
 ```
 npm install
