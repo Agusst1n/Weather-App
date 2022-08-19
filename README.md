@@ -1,6 +1,6 @@
 # Weather APP
 
-Este es una aplicacion que muestra el clima del momento y de los proximos cinco días en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalización. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco días de lugares como Paris, Tokio, Venecia, Atenas y New York. Ademas la aplicacion simula el comportamiento nativo de una aplicacion movil, por lo cual se puede instalar en la computadora, tablet y celular.
+Este es una aplicacion que muestra el clima del momento y de los proximos cinco días en la respectiva ciudad en la que se encuentre el usuario ya que accede a su ubicacion mediante geolocalización. Por otra parte tambien se puede acceder al clima del momento o de los proximos cinco días de lugares como Paris, Tokio, Venecia, Atenas y New York. Ademas la aplicacion es una PWA la cual se encarga de simular el comportamiento nativo de una aplicacion movil, por lo cual se puede instalar en la computadora, tablet y celular.
 
 ## Reconstruir los modulos levantar el proyecto en Local
 ```
