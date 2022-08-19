@@ -35,7 +35,7 @@ npm run dev
 </div>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dcwoyu2zc/image/upload/v1660898697/assets/notebook_k1pcoz.jpg" width="600px"/>
+  <img src="https://res.cloudinary.com/dcwoyu2zc/image/upload/v1660898698/assets/tablet_monlcp.jpg" width="600px"/>
 </div>
 
 <div align="center">
