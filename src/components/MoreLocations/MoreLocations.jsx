@@ -27,7 +27,7 @@ const MoreLocations = () => {
     <article className={styles.moreLocations_container}>
 
         <button value={'Paris'} onClick={handleClick}>Paris</button>
-        <button value={'Tokyo'} onClick={handleClick}>Tokyo</button>
+        <button value={'Tokyo'} onClick={handleClick}>Tokio</button>
         <button value={'Venecia'} onClick={handleClick}>Venecia</button>
         <button value={'Atenas'} onClick={handleClick}>Atenas</button>
         <button value={'New york'} onClick={handleClick}>New york</button>
